@@ -4,6 +4,10 @@
     font-family: cursive;
 }
 
+.active {
+    color: limegreen;
+}
+
 .margin-50 {
     margin: 50px;
 }
